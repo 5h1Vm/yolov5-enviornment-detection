@@ -83,4 +83,5 @@ Gave Error for files named with screen 🫠
 This all was executed on a Rpi 4 8gb.\
 Used Drone's application using adb to capture images and process.\
 📍 18/04/2024, IMS Ghz UC (3rd Prize).\
-📍 30/04/2024, NFSU D (1st Prize).
+📍 30/04/2024, NFSU D (1st Prize).\
+📍 24/09/2025, Next gen AI Ventures LSR DU (1st Prize).
